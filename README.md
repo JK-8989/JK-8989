@@ -1,5 +1,5 @@
 ### Hi everyone! 👋
-I'm Jiyoung, future front-end developer 😋😎😜😛. 
+I'm Jiyoung, future front-end developer 😋😎😜😛. <br>
 Currently teaching myself HTML, CSS, and JavaScript. Happy coding everyone !
 
 
