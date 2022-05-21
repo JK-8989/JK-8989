@@ -1,6 +1,7 @@
 ### Hi everyone! 👋
-I'm Jiyoung, **the future front-end developer**😋 😎 😜 😛. <br>
-Currently teaching myself **HTML, CSS,** and **JavaScript**. Happy coding everyone !
+I'm Jiyoung, <br>
+Currently teaching myself **HTML, CSS,** and **JavaScript**. <br>
+Happy coding everyone !
 
 
 ![HTML](https://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=html5&logoColor=ffffff)
